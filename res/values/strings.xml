@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FragmentStudy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dynamicUiTitle">book Title 1</string>
+    <string name="android4NewTitle">book title 2</string>
+    <string name="dynamicUiDescription">Android apps are written in the Java programming language. The Android SDK tools compile your code—along with any data and resource files—into an APK: an Android package, which is an archive file with an .apk suffix. One APK file contains all the contents of an Android app and is the file that Android-powered devices use to install the app.Once installed on a device, each Android app lives in its own security sandbox:Android operating system is a multi-user Linux system in which each app is a different user.</string>
+
+</resources>

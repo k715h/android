@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:id="@+id/scrollTitles">
+
+    <RadioGroup
+        android:id="@+id/bookSelectGroup"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content">
+        <RadioButton 
+            android:id="@+id/dynamicUiBook"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/dynamicUiTitle"
+            android:checked="true"/>    
+        <RadioButton 
+            android:id="@+id/android4NewBook"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/android4NewTitle"/>
+        <RadioButton 
+            android:id="@+id/android4NewBook1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/android4NewTitle"/>
+        <RadioButton 
+            android:id="@+id/android4NewBook2"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/android4NewTitle"/>
+        <RadioButton 
+            android:id="@+id/android4NewBook3"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/android4NewTitle"/>
+        <RadioButton 
+            android:id="@+id/android4NewBook4"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/android4NewTitle"/>
+    </RadioGroup>
+
+</ScrollView>

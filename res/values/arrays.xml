@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "bookDescriptions">
+        <item>블라블라블라블라</item>
+        <item>또다시 블라블라블라블라</item>
+        <item>블라블라블라블라3</item>
+        <item>블라블라블라블라4 너무많다</item>
+        <item>마지막 블라블라블라블라</item>
+    </string-array>
+</resources>
